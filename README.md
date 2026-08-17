@@ -4,10 +4,10 @@
 
 # Aden Alexandria Syaiful Perdana
 
-### IT Quality Assurance Intern | Web & Mobile Developer
+### IT Quality Assurance Intern | Developer Background in Web & Mobile
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Exploring+Software+Quality+Assurance.;Testing+Digital+Experiences.;Finding+Issues+Before+Users+Do.;Building+with+a+Developer's+Perspective.;Learning+How+Great+Products+Stay+Reliable."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Quality+Assurance+with+a+Developer's+Perspective.;Understanding+How+Software+Is+Built.;Testing+Beyond+the+Happy+Path.;Finding+Issues+Before+Users+Do.;Building+Reliable+Digital+Experiences."
   alt="Typing Animation"
 />
 
@@ -19,24 +19,24 @@
 
 I'm **Aden Alexandria**, an Information Technology student currently building my career in **Software Quality Assurance**.
 
-My journey started from **web development, mobile development, IT infrastructure, and IoT**, which gave me a broader understanding of how digital products are built and how different parts of a system work together.
+Before focusing on QA, I worked on various projects as part of development teams across **web, mobile, IoT, API integration, databases, and technology infrastructure**.
 
-Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm expanding that technical background into software quality, learning how to evaluate digital products, identify issues, understand expected system behavior, and help ensure that features work reliably for users.
+Having experience on the development side gives me a different perspective on software quality. I understand not only how users interact with a product, but also how features are built, how systems communicate, and where technical issues may originate.
 
-I still enjoy building applications, but I'm increasingly interested in looking at products from another perspective:
+Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm bringing that developer perspective into Quality Assurance — learning to test more thoughtfully, identify issues more effectively, understand expected system behavior, and help build products that are not only functional, but reliable.
 
-> **Not only “Does it work?” but “Does it work the way it should?”**
+> **Not only "Does it work?" but "Does it work the way it should?"**
 
 <br>
 
 ## Currently
 
 - Working as an **IT Quality Assurance Intern at SchoolTech Indonesia**
-- Building my knowledge in **software testing & quality assurance**
-- Improving my understanding of application flows and system behavior
-- Using my web & mobile development background to better understand technical issues
-- Exploring better ways to build reliable digital products
-- Continuing to learn about web, mobile, IoT, and technology infrastructure
+- Building my knowledge in **software testing and quality assurance**
+- Learning to analyze application flows, requirements, and expected behavior
+- Using my **development background** to better understand technical issues
+- Improving my understanding of APIs, databases, and system integration from a testing perspective
+- Continuing to explore web, mobile, IoT, and technology infrastructure
 
 <br>
 
@@ -48,11 +48,11 @@ I still enjoy building applications, but I'm increasingly interested in looking 
 
 <img src="https://img.shields.io/badge/Quality_Assurance-111111?style=flat-square&logo=checkmarx&logoColor=3B82F6" />
 
+<img src="https://img.shields.io/badge/Functional_Testing-111111?style=flat-square&logo=checkmarx&logoColor=3B82F6" />
+
 <img src="https://img.shields.io/badge/Test_Case_Design-111111?style=flat-square&logo=googledocs&logoColor=3B82F6" />
 
 <img src="https://img.shields.io/badge/Bug_Reporting-111111?style=flat-square&logo=bugsnag&logoColor=3B82F6" />
-
-<img src="https://img.shields.io/badge/Functional_Testing-111111?style=flat-square&logo=checkmarx&logoColor=3B82F6" />
 
 <img src="https://img.shields.io/badge/API_Testing-111111?style=flat-square&logo=postman&logoColor=3B82F6" />
 
@@ -60,14 +60,14 @@ I still enjoy building applications, but I'm increasingly interested in looking 
 
 <br>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
 
-  <img
-    src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,php,py,flutter,dart,laravel,firebase,supabase,postgres,mysql,figma,git,github,linux,vscode&perline=10"
-    alt="Aden Alexandria Languages and Tools"
-  />
+<img
+  src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,php,py,flutter,dart,laravel,firebase,supabase,postgres,mysql,figma,postman,git,github,linux,vscode&perline=10"
+  alt="Aden Alexandria Languages and Tools"
+/>
 
 </p>
 
@@ -95,20 +95,74 @@ I still enjoy building applications, but I'm increasingly interested in looking 
 
 <br>
 
+---
+
+# Development Background
+
+> **Building software taught me how systems work. Quality Assurance is teaching me how to make them better.**
+
+My development experience gives me a stronger technical foundation when approaching software testing. I have worked with applications involving frontend interfaces, mobile development, API integration, databases, authentication, real-time systems, and IoT.
+
+<br>
+
+### 01 — LATAH
+
+**Web Platform · Civic Technology**
+
+A web-based public reporting platform designed to support faster, more transparent, and data-driven reporting of city issues.
+
+I worked as a **Frontend Developer**, focusing on responsive interfaces, reusable components, and user experience.
+
+`Next.js` `Tailwind CSS` `Firebase` `PostgreSQL` `REST API`
+
+[Repository](https://github.com/AdenAlexandriaSP/latah-frontend-new) · [Live Website](https://latah-web.vercel.app)
+
+<br>
+
+### 02 — SELECT
+
+**Mobile Application · Electronic Rental Platform**
+
+A Flutter-based electronics rental application with separate customer and admin workflows.
+
+The system includes authentication, product catalog, favorites, booking, identity verification, payment flow, order tracking, admin management, and location-based verification.
+
+`Flutter` `Dart` `Riverpod` `Dio` `Supabase` `REST API` `Midtrans` `OpenStreetMap`
+
+[Repository](https://github.com/AdenAlexandriaSP/select)
+
+<br>
+
+### 03 — PurePond
+
+**Mobile Application · IoT Monitoring System**
+
+An IoT-based fish pond monitoring system designed to monitor water conditions in real time.
+
+I contributed to the Flutter application, monitoring dashboard, Firebase notifications, and integration between the mobile application and IoT devices.
+
+`Flutter` `Dart` `Firebase` `Firebase Cloud Messaging` `ESP32` `MQTT`
+
+[Repository](https://github.com/AdenAlexandriaSP/purepond)
+
+<br>
+
+---
+
 # Experience
 
-### August 2026 - December 2026
+### August 2026 — December 2026
 
 **IT Quality Assurance Intern**  
 SchoolTech Indonesia
 
-Working in **IT Quality Assurance** while developing a deeper understanding of software testing, product quality, system behavior, and the process of ensuring that digital products work according to their expected requirements.
+Building practical experience in **IT Quality Assurance**, software testing, product quality, system behavior, and validating whether digital products work according to their expected requirements.
 
-This experience also allows me to combine my development background with a quality-focused perspective when understanding application flows and identifying technical issues.
+My development background helps me approach testing with a technical perspective — understanding application flows, integrations, possible failure points, and how different parts of a system interact.
 
 <br>
 
-### January 2026 - Present
+### January 2026 — Present
 
 **Laboratory Assistant**  
 Technology Infrastructure Laboratory  
@@ -118,16 +172,16 @@ Supporting laboratory activities, technical preparation, troubleshooting, and he
 
 <br>
 
-### January 2026 - June 2026
+### January 2026 — June 2026
 
-**Teaching Assistant Operating Systems Practicum**  
+**Teaching Assistant — Operating Systems Practicum**  
 Faculty of Computer Science, Universitas Jember
 
 Assisted students with operating system fundamentals, terminal usage, process management, file systems, command-line operations, and technical troubleshooting.
 
 <br>
 
-### January 2023 - June 2023
+### January 2023 — June 2023
 
 **IT Support System**  
 Universitas Muhammadiyah Jember
@@ -135,6 +189,8 @@ Universitas Muhammadiyah Jember
 Worked with network maintenance, access point installation, CCTV systems, MikroTik configuration, and basic IT infrastructure troubleshooting.
 
 <br>
+
+---
 
 # Contribution Playground
 
@@ -156,6 +212,8 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 <br>
 
+---
+
 # Beyond the Code
 
 When I'm not testing, debugging, or figuring out why something behaves differently than expected...
@@ -170,62 +228,70 @@ const aden = {
   currentRole: "IT Quality Assurance Intern",
   careerDirection: "Software Quality Assurance",
 
-  background: [
+  technicalBackground: [
     "Web Development",
     "Mobile Development",
+    "API Integration",
+    "Databases",
     "IT Infrastructure",
     "IoT"
   ],
 
-  mindset: "Build it. Test it. Improve it.",
+  qaMindset: {
+    understand: "how it was built",
+    test: "how it behaves",
+    question: "what could go wrong",
+    goal: "make it more reliable"
+  },
 
   games: true,
   movies: true,
   anime: "always",
+
   curiosity: Infinity
 };
 ```
 
 <br>
 
+---
+
 # Connect with Me
 
 <p align="left">
 
-  <a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"
-      alt="Portfolio"
-    />
-  </a>
+<a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"
+    alt="Portfolio"
+  />
+</a>
 
-  <a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+  />
+</a>
 
-  <a href="https://www.instagram.com/aden.alexandria/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F"
-      alt="Instagram"
-    />
-  </a>
+<a href="https://www.instagram.com/aden.alexandria/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F"
+    alt="Instagram"
+  />
+</a>
 
-  <a href="mailto:adenperdana1477@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335"
-      alt="Email"
-    />
-  </a>
+<a href="mailto:adenperdana1477@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
+</a>
 
 </p>
 
-<br><br>
+<br>
 
 `Thanks for stopping by.`
 
-**Build carefully. Test thoughtfully. Keep improving.**
-
-</div>
+**Understand how it's built. Test how it behaves. Improve how it works.**
