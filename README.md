@@ -21,11 +21,11 @@ I'm **Aden Alexandria**, an Information Technology student currently building my
 
 My journey started from **web development, mobile development, IT infrastructure, and IoT**, which gave me a broader understanding of how digital products are built and how different parts of a system work together.
 
-Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm expanding that technical background into software quality — learning how to evaluate digital products, identify issues, understand expected system behavior, and help ensure that features work reliably for users.
+Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm expanding that technical background into software quality, learning how to evaluate digital products, identify issues, understand expected system behavior, and help ensure that features work reliably for users.
 
 I still enjoy building applications, but I'm increasingly interested in looking at products from another perspective:
 
-> **Not only “Does it work?” — but “Does it work the way it should?”**
+> **Not only “Does it work?” but “Does it work the way it should?”**
 
 <br>
 
@@ -97,7 +97,7 @@ I still enjoy building applications, but I'm increasingly interested in looking 
 
 # Experience
 
-### August 2026 — December 2026
+### August 2026 - December 2026
 
 **IT Quality Assurance Intern**  
 SchoolTech Indonesia
@@ -108,26 +108,26 @@ This experience also allows me to combine my development background with a quali
 
 <br>
 
-### January 2026 — Present
+### January 2026 - Present
 
 **Laboratory Assistant**  
 Technology Infrastructure Laboratory  
-Faculty of Computer Science — Universitas Jember
+Faculty of Computer Science, Universitas Jember
 
 Supporting laboratory activities, technical preparation, troubleshooting, and helping students work with infrastructure-related systems and tools.
 
 <br>
 
-### January 2026 — June 2026
+### January 2026 - June 2026
 
-**Teaching Assistant — Operating Systems Practicum**  
-Faculty of Computer Science — Universitas Jember
+**Teaching Assistant Operating Systems Practicum**  
+Faculty of Computer Science, Universitas Jember
 
 Assisted students with operating system fundamentals, terminal usage, process management, file systems, command-line operations, and technical troubleshooting.
 
 <br>
 
-### January 2023 — June 2023
+### January 2023 - June 2023
 
 **IT Support System**  
 Universitas Muhammadiyah Jember
