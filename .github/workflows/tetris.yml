@@ -9,13 +9,20 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-tetris
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: Generate Tetris contribution graph
         uses: leereilly/contribution-graph-art@v1
@@ -34,6 +41,11 @@ jobs:
 
           path = Path("assets/contribution-graph.svg")
 
+          if not path.exists():
+              raise FileNotFoundError(
+                  "assets/contribution-graph.svg was not generated"
+              )
+
           svg = path.read_text(encoding="utf-8")
 
           svg = svg.replace(
@@ -43,7 +55,7 @@ jobs:
 
           path.write_text(svg, encoding="utf-8")
 
-          print("Tetris animation changed to infinite loop.")
+          print("Tetris animation set to infinite loop.")
           PY
 
       - name: Commit generated animation
@@ -53,6 +65,15 @@ jobs:
 
           git add assets/contribution-graph.svg
 
-          git diff --cached --quiet || git commit -m "update contribution tetris"
+          if git diff --cached --quiet; then
+            echo "No Tetris changes to commit."
+            exit 0
+          fi
 
-          git push
+          git commit -m "update contribution tetris"
+
+          echo "Syncing with latest main branch..."
+
+          git pull --rebase origin main
+
+          git push origin HEAD:main
