@@ -64,8 +64,6 @@ Currently focused on building useful, clean, and connected digital experiences.
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.instagram.com/aden.alexandria/" target="_blank">
     <img
       src="https://cdn.simpleicons.org/instagram/E4405F"
@@ -74,8 +72,6 @@ Currently focused on building useful, clean, and connected digital experiences.
       alt="Instagram"
     />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:adenperdana1477@gmail.com">
     <img
