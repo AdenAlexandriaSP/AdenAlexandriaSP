@@ -23,11 +23,30 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output_path: assets/contribution-graph.svg
-          tetromino_count: "5"
+          tetromino_count: "6"
           palette: "auto"
           animation_duration: "8"
 
-      - name: Save generated animation
+      - name: Make Tetris animation loop forever
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("assets/contribution-graph.svg")
+
+          svg = path.read_text(encoding="utf-8")
+
+          svg = svg.replace(
+              'repeatCount="1"',
+              'repeatCount="indefinite"'
+          )
+
+          path.write_text(svg, encoding="utf-8")
+
+          print("Tetris animation changed to infinite loop.")
+          PY
+
+      - name: Commit generated animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
