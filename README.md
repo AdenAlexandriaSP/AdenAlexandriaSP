@@ -156,9 +156,7 @@ const aden = {
 
 <br>
 
-# 🤝 Let's Connect
-
-## 🌐 Connect with Me
+# Connect with Me
 
 <p align="left">
 
