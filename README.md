@@ -205,16 +205,17 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 ```text
 > assembling_contributions.exe
-> loading blocks...
-> contribution playground coming online...
 ```
 
-🧱 **Tetris Contribution Animation — coming next.**
+<div align="center">
 
-<!--
-Tetris SVG will be placed here after the GitHub Actions workflow
-has been configured successfully.
--->
+<img
+  src="assets/contribution-graph.svg"
+  width="100%"
+  alt="Aden Alexandria Contribution Tetris Animation"
+/>
+
+</div>
 
 <br>
 
