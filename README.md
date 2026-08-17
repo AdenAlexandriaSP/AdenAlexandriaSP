@@ -47,31 +47,52 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 ---
 
-## 🛠️ Tech Ecosystem
+<br>
 
-### Web
+## 🌐 Connect with Me
 
-`Next.js` `Tailwind CSS` `HTML` `CSS` `JavaScript`
+<p align="left">
 
-### Mobile
+  <a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-`Flutter` `Dart` `Riverpod` `Dio`
+  <a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 
-### Backend & Data
+  <a href="mailto:adenperdana1477@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
 
-`Laravel` `REST API` `Firebase` `Supabase` `PostgreSQL` `MySQL`
+</p>
 
-### IoT
+<br>
 
-`ESP32` `MQTT` `Sensor Integration` `Firebase Cloud Messaging`
+## 🛠️ Languages & Tools
 
-### Infrastructure
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,flutter,dart,laravel,firebase,supabase,postgres,mysql,git,github,linux,vscode&perline=9"
+    alt="Aden Alexandria Tech Stack"
+  />
+</p>
 
-`Linux` `MikroTik` `Cisco` `Networking` `Troubleshooting`
+<br>
 
-### Tools
+### Other Technologies
 
-`Git` `GitHub` `VS Code` `pgAdmin`
+<p>
+
+<img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/Riverpod-111111?style=flat-square&logo=flutter&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/Dio-111111?style=flat-square&logo=dart&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/MQTT-111111?style=flat-square&logo=mqtt&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/MikroTik-111111?style=flat-square&logo=mikrotik&logoColor=3B82F6" />
+<img src="https://img.shields.io/badge/Cisco-111111?style=flat-square&logo=cisco&logoColor=3B82F6" />
+
+</p>
 
 <br>
 
