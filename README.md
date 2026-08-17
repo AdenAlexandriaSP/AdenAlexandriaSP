@@ -11,12 +11,6 @@
   alt="Typing Animation"
 />
 
-<br>
-
-[Portfolio](https://aden-alexandria-portofolio.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/adenalexandria) •
-[Email](mailto:adenperdana1477@gmail.com)
-
 </div>
 
 <br>
@@ -45,24 +39,47 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 <br>
 
----
-
-<br>
-
 ## 🌐 Connect with Me
 
 <p align="left">
 
   <a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img 
+      src="https://cdn.simpleicons.org/vercel/FFFFFF" 
+      width="38" 
+      height="38"
+      alt="Portfolio"
+    />
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img 
+      src="https://cdn.simpleicons.org/linkedin/0A66C2" 
+      width="38" 
+      height="38"
+      alt="LinkedIn"
+    />
   </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/aden.alexandria/" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/instagram/E4405F" 
+      width="38" 
+      height="38"
+      alt="Instagram"
+    />
+  </a>
+  &nbsp;&nbsp;
 
   <a href="mailto:adenperdana1477@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img 
+      src="https://cdn.simpleicons.org/gmail/EA4335" 
+      width="38" 
+      height="38"
+      alt="Email"
+    />
   </a>
 
 </p>
@@ -73,7 +90,7 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,flutter,dart,laravel,firebase,supabase,postgres,mysql,git,github,linux,vscode&perline=9"
+    src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,php,py,flutter,dart,laravel,firebase,supabase,postgres,mysql,figma,git,github,linux,vscode&perline=10"
     alt="Aden Alexandria Tech Stack"
   />
 </p>
@@ -93,74 +110,6 @@ Currently focused on building useful, clean, and connected digital experiences.
 <img src="https://img.shields.io/badge/Cisco-111111?style=flat-square&logo=cisco&logoColor=3B82F6" />
 
 </p>
-
-<br>
-
----
-
-# 🚧 Featured Builds
-
-Projects that represent what I enjoy building — from web platforms to mobile applications and connected IoT systems.
-
-<br>
-
-## 01 — LATAH
-
-### Civic Technology · Web Platform
-
-A web-based public reporting platform designed to help citizens report city issues quickly, transparently, and efficiently.
-
-I worked as a **Frontend Developer**, focusing on responsive interfaces, reusable components, and user experience.
-
-Some of the platform features include **Smart Mapping, AI Classification, and Civic Interaction**.
-
-**Tech Stack**
-
-`Next.js` `Tailwind CSS` `Firebase` `PostgreSQL` `REST API`
-
-🔗 [Repository](https://github.com/AdenAlexandriaSP/latah-frontend-new)
-
-🌐 [Live Website](https://latah-web.vercel.app)
-
-<br>
-
----
-
-## 02 — SELECT
-
-### Mobile · Electronic Rental Platform
-
-A Flutter-based electronics rental application with separate **customer and admin workflows**.
-
-The application includes authentication, product catalogs, favorites, booking, identity verification, payment flow, order tracking, and location-based verification.
-
-I worked on the mobile application and its integration with backend APIs.
-
-**Tech Stack**
-
-`Flutter` `Dart` `Riverpod` `Dio` `Supabase` `REST API` `Midtrans` `OpenStreetMap`
-
-🔗 [Repository](https://github.com/AdenAlexandriaSP/select)
-
-<br>
-
----
-
-## 03 — PurePond
-
-### Mobile · IoT Monitoring System
-
-An IoT-based fish pond monitoring system designed to monitor water conditions in real time.
-
-I contributed to the **Flutter application, monitoring dashboard, Firebase notifications, and IoT integration**.
-
-The system helps monitor water conditions and supports automated water management.
-
-**Tech Stack**
-
-`Flutter` `Dart` `Firebase` `Firebase Cloud Messaging` `ESP32` `MQTT`
-
-🔗 [Repository](https://github.com/AdenAlexandriaSP/purepond)
 
 <br>
 
@@ -226,62 +175,3 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 ```text
 > assembling_contributions.exe
-```
-
-<div align="center">
-
-<img
-  src="assets/contribution-graph.svg"
-  width="100%"
-  alt="Aden Alexandria Contribution Tetris Animation"
-/>
-
-</div>
-
-<br>
-
----
-
-# 🌙 Beyond the Code
-
-When I'm not debugging something...
-
-- 🎮 Probably playing a game
-- ⚔️ Occasionally entering the **Land of Dawn**
-- 🎬 Watching another movie
-- 🌸 Or most likely, starting another anime
-
-```javascript
-const aden = {
-  role: "Web & Mobile Developer",
-  games: true,
-  movies: true,
-  anime: "always",
-  curiosity: Infinity,
-  currentlyBuilding: "something useful"
-};
-```
-
-<br>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### Have an idea, project, or just want to talk tech?
-
-<br>
-
-[Portfolio](https://aden-alexandria-portofolio.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/adenalexandria) •
-[Email](mailto:adenperdana1477@gmail.com)
-
-<br><br>
-
-`Thanks for stopping by.`
-
-**Keep building.**
-
-</div>
