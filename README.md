@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AdenAlexandriaSP/AdenAlexandriaSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aden Alexandria
 
-Here are some ideas to get you started:
+### Web & Mobile Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Building for the Web · Crafting Mobile Experiences · Exploring IoT
+</p>
+
+<p>
+  <a href="https://aden-alexandria-portofolio.vercel.app/">
+    Portfolio
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/adenalexandria">
+    LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:adenperdana1477@gmail.com">
+    Email
+  </a>
+</p>
+
+</div>
+
+<br>
+
+## About Me
+
+I'm **Aden Alexandria**, an Information Technology student who enjoys turning ideas into real digital products.
+
+My interests move across **web development, mobile development, IoT, and technology infrastructure**. I enjoy exploring not only how applications look and work, but also the systems behind them.
+
+Currently focused on building useful, clean, and connected digital experiences.
+
+<br>
+
+## Currently
+
+- 💻 Building web & mobile projects
+- 📱 Exploring better mobile experiences
+- 🌐 Learning more about system architecture
+- ⚡ Exploring IoT & connected systems
+- 🚀 Always looking for something new to build
+
+<br>
+
+---
+
+<div align="center">
+
+`README UNDER CONSTRUCTION 🚧`
+
+</div>
