@@ -4,10 +4,10 @@
 
 # Aden Alexandria Syaiful Perdana
 
-### Quality Assurance Developer
+### IT Quality Assurance Intern | Web & Mobile Developer
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+for+the+Web.;Crafting+Mobile+Experiences.;Exploring+IoT.;Understanding+the+Systems+Behind+It."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Exploring+Software+Quality+Assurance.;Testing+Digital+Experiences.;Finding+Issues+Before+Users+Do.;Building+with+a+Developer's+Perspective.;Learning+How+Great+Products+Stay+Reliable."
   alt="Typing Animation"
 />
 
@@ -17,24 +17,46 @@
 
 ## About Me
 
-I'm **Aden Alexandria**, an Information Technology student who enjoys turning ideas into real digital products.
+I'm **Aden Alexandria**, an Information Technology student currently building my career in **Software Quality Assurance**.
 
-My interests span **web development, mobile development, IoT, and technology infrastructure**.
+My journey started from **web development, mobile development, IT infrastructure, and IoT**, which gave me a broader understanding of how digital products are built and how different parts of a system work together.
 
-I enjoy exploring not only how applications look and work, but also the systems behind them.
+Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm expanding that technical background into software quality — learning how to evaluate digital products, identify issues, understand expected system behavior, and help ensure that features work reliably for users.
 
-Currently focused on building useful, clean, and connected digital experiences.
+I still enjoy building applications, but I'm increasingly interested in looking at products from another perspective:
+
+> **Not only “Does it work?” — but “Does it work the way it should?”**
 
 <br>
 
 ## Currently
 
-- Building web & mobile projects
-- Starting my journey as an **IT Quality Assurance Intern**
-- Exploring better mobile experiences
-- Learning more about system architecture
-- Exploring IoT & connected systems
-- Always looking for something interesting to build
+- Working as an **IT Quality Assurance Intern at SchoolTech Indonesia**
+- Building my knowledge in **software testing & quality assurance**
+- Improving my understanding of application flows and system behavior
+- Using my web & mobile development background to better understand technical issues
+- Exploring better ways to build reliable digital products
+- Continuing to learn about web, mobile, IoT, and technology infrastructure
+
+<br>
+
+## Quality Assurance Focus
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Software_Testing-111111?style=flat-square&logo=testinglibrary&logoColor=3B82F6" />
+
+<img src="https://img.shields.io/badge/Quality_Assurance-111111?style=flat-square&logo=checkmarx&logoColor=3B82F6" />
+
+<img src="https://img.shields.io/badge/Test_Case_Design-111111?style=flat-square&logo=googledocs&logoColor=3B82F6" />
+
+<img src="https://img.shields.io/badge/Bug_Reporting-111111?style=flat-square&logo=bugsnag&logoColor=3B82F6" />
+
+<img src="https://img.shields.io/badge/Functional_Testing-111111?style=flat-square&logo=checkmarx&logoColor=3B82F6" />
+
+<img src="https://img.shields.io/badge/API_Testing-111111?style=flat-square&logo=postman&logoColor=3B82F6" />
+
+</p>
 
 <br>
 
@@ -80,7 +102,9 @@ Currently focused on building useful, clean, and connected digital experiences.
 **IT Quality Assurance Intern**  
 SchoolTech Indonesia
 
-Four-month internship in **IT Quality Assurance**, expanding my experience into software quality, testing, and the process of ensuring digital products work as expected.
+Working in **IT Quality Assurance** while developing a deeper understanding of software testing, product quality, system behavior, and the process of ensuring that digital products work according to their expected requirements.
+
+This experience also allows me to combine my development background with a quality-focused perspective when understanding application flows and identifying technical issues.
 
 <br>
 
@@ -129,12 +153,12 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 />
 
 </div>
-<br>
 
+<br>
 
 # Beyond the Code
 
-When I'm not debugging something...
+When I'm not testing, debugging, or figuring out why something behaves differently than expected...
 
 - Probably playing a game
 - Occasionally entering the **Land of Dawn**
@@ -143,13 +167,22 @@ When I'm not debugging something...
 
 ```javascript
 const aden = {
-  role: "Web & Mobile Developer",
-  currentQuest: "IT Quality Assurance Intern",
+  currentRole: "IT Quality Assurance Intern",
+  careerDirection: "Software Quality Assurance",
+
+  background: [
+    "Web Development",
+    "Mobile Development",
+    "IT Infrastructure",
+    "IoT"
+  ],
+
+  mindset: "Build it. Test it. Improve it.",
+
   games: true,
   movies: true,
   anime: "always",
-  curiosity: Infinity,
-  currentlyBuilding: "something useful"
+  curiosity: Infinity
 };
 ```
 
@@ -193,6 +226,6 @@ const aden = {
 
 `Thanks for stopping by.`
 
-**Keep building.**
+**Build carefully. Test thoughtfully. Keep improving.**
 
 </div>
