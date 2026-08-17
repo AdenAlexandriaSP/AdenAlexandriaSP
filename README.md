@@ -23,7 +23,7 @@ Before focusing on QA, I worked on various projects as part of development teams
 
 Having experience on the development side gives me a different perspective on software quality. I understand not only how users interact with a product, but also how features are built, how systems communicate, and where technical issues may originate.
 
-Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm bringing that developer perspective into Quality Assurance — learning to test more thoughtfully, identify issues more effectively, understand expected system behavior, and help build products that are not only functional, but reliable.
+Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia**, I'm bringing that developer perspective into Quality Assurance learning to test more thoughtfully, identify issues more effectively, understand expected system behavior, and help build products that are not only functional, but reliable.
 
 > **Not only "Does it work?" but "Does it work the way it should?"**
 
@@ -97,72 +97,20 @@ Now, through my role as an **IT Quality Assurance Intern at SchoolTech Indonesia
 
 ---
 
-# Development Background
-
-> **Building software taught me how systems work. Quality Assurance is teaching me how to make them better.**
-
-My development experience gives me a stronger technical foundation when approaching software testing. I have worked with applications involving frontend interfaces, mobile development, API integration, databases, authentication, real-time systems, and IoT.
-
-<br>
-
-### 01 — LATAH
-
-**Web Platform · Civic Technology**
-
-A web-based public reporting platform designed to support faster, more transparent, and data-driven reporting of city issues.
-
-I worked as a **Frontend Developer**, focusing on responsive interfaces, reusable components, and user experience.
-
-`Next.js` `Tailwind CSS` `Firebase` `PostgreSQL` `REST API`
-
-[Repository](https://github.com/AdenAlexandriaSP/latah-frontend-new) · [Live Website](https://latah-web.vercel.app)
-
-<br>
-
-### 02 — SELECT
-
-**Mobile Application · Electronic Rental Platform**
-
-A Flutter-based electronics rental application with separate customer and admin workflows.
-
-The system includes authentication, product catalog, favorites, booking, identity verification, payment flow, order tracking, admin management, and location-based verification.
-
-`Flutter` `Dart` `Riverpod` `Dio` `Supabase` `REST API` `Midtrans` `OpenStreetMap`
-
-[Repository](https://github.com/AdenAlexandriaSP/select)
-
-<br>
-
-### 03 — PurePond
-
-**Mobile Application · IoT Monitoring System**
-
-An IoT-based fish pond monitoring system designed to monitor water conditions in real time.
-
-I contributed to the Flutter application, monitoring dashboard, Firebase notifications, and integration between the mobile application and IoT devices.
-
-`Flutter` `Dart` `Firebase` `Firebase Cloud Messaging` `ESP32` `MQTT`
-
-[Repository](https://github.com/AdenAlexandriaSP/purepond)
-
-<br>
-
----
-
 # Experience
 
-### August 2026 — December 2026
+### August 2026 - December 2026
 
 **IT Quality Assurance Intern**  
 SchoolTech Indonesia
 
 Building practical experience in **IT Quality Assurance**, software testing, product quality, system behavior, and validating whether digital products work according to their expected requirements.
 
-My development background helps me approach testing with a technical perspective — understanding application flows, integrations, possible failure points, and how different parts of a system interact.
+My development background helps me approach testing with a technical perspective understanding application flows, integrations, possible failure points, and how different parts of a system interact.
 
 <br>
 
-### January 2026 — Present
+### January 2026 - Present
 
 **Laboratory Assistant**  
 Technology Infrastructure Laboratory  
@@ -172,16 +120,16 @@ Supporting laboratory activities, technical preparation, troubleshooting, and he
 
 <br>
 
-### January 2026 — June 2026
+### January 2026 - June 2026
 
-**Teaching Assistant — Operating Systems Practicum**  
+**Teaching Assistant Operating Systems Practicum**  
 Faculty of Computer Science, Universitas Jember
 
 Assisted students with operating system fundamentals, terminal usage, process management, file systems, command-line operations, and technical troubleshooting.
 
 <br>
 
-### January 2023 — June 2023
+### January 2023 - June 2023
 
 **IT Support System**  
 Universitas Muhammadiyah Jember
