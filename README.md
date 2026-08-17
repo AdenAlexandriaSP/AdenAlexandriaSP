@@ -122,21 +122,11 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/images/breakout-light.svg"
-  />
-  <img
-    alt="Breakout Game"
-    src="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/images/breakout-light.svg"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/custom.svg"
+  width="100%"
+  alt="Aden Alexandria Breakout Contribution Game"
+/>
 
 </div>
 
