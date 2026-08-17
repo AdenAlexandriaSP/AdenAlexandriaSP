@@ -46,38 +46,28 @@ Currently focused on building useful, clean, and connected digital experiences.
 
   <a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/vercel/FFFFFF"
-      width="38"
-      height="38"
+      src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"
       alt="Portfolio"
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="38"
-      height="38"
+      src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"
       alt="LinkedIn"
     />
   </a>
 
   <a href="https://www.instagram.com/aden.alexandria/" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      width="38"
-      height="38"
+      src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F"
       alt="Instagram"
     />
   </a>
 
   <a href="mailto:adenperdana1477@gmail.com">
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="38"
-      height="38"
+      src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
   </a>
