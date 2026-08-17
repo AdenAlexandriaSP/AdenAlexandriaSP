@@ -13,8 +13,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ## About Me
@@ -75,8 +73,6 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 <br>
 
----
-
 # Experience
 
 ### August 2026 — December 2026
@@ -136,7 +132,6 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 <br>
 
----
 
 # Beyond the Code
 
@@ -160,8 +155,6 @@ const aden = {
 ```
 
 <br>
-
----
 
 # 🤝 Let's Connect
 
