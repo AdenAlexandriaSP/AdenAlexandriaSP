@@ -2,9 +2,9 @@
 
 <img src="assets/foto_diri.png" width="160" alt="Aden Alexandria">
 
-# Aden Alexandria
+# Aden Alexandria Syaiful Perdana
 
-### Web & Mobile Developer
+### Quality Assurance Developer
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+for+the+Web.;Crafting+Mobile+Experiences.;Exploring+IoT.;Understanding+the+Systems+Behind+It."
@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Aden Alexandria**, an Information Technology student who enjoys turning ideas into real digital products.
 
@@ -29,50 +29,14 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 <br>
 
-## 🚀 Currently
+## Currently
 
-- 💻 Building web & mobile projects
-- 🧪 Starting my journey as an **IT Quality Assurance Intern**
-- 📱 Exploring better mobile experiences
-- 🌐 Learning more about system architecture
-- ⚡ Exploring IoT & connected systems
-- 🧩 Always looking for something interesting to build
-
-<br>
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-  <a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/aden.alexandria/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="mailto:adenperdana1477@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335"
-      alt="Email"
-    />
-  </a>
-
-</p>
+- Building web & mobile projects
+- Starting my journey as an **IT Quality Assurance Intern**
+- Exploring better mobile experiences
+- Learning more about system architecture
+- Exploring IoT & connected systems
+- Always looking for something interesting to build
 
 <br>
 
@@ -113,7 +77,7 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### August 2026 — December 2026
 
@@ -152,33 +116,7 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 <br>
 
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=AdenAlexandriaSP&show_icons=true&hide_border=true&theme=github_dark"
-  alt="Aden Alexandria GitHub Stats"
-/>
-
-<br><br>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdenAlexandriaSP&layout=compact&hide_border=true&theme=github_dark"
-  alt="Aden Alexandria Most Used Languages"
-/>
-
-</div>
-
-<br>
-
----
-
-# 🎮 Contribution Playground
+# Contribution Playground
 
 ```text
 > assembling_contributions.exe
@@ -200,14 +138,14 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 
 ---
 
-# 🌙 Beyond the Code
+# Beyond the Code
 
 When I'm not debugging something...
 
-- 🎮 Probably playing a game
-- ⚔️ Occasionally entering the **Land of Dawn**
-- 🎬 Watching another movie
-- 🌸 Or most likely, starting another anime
+- Probably playing a game
+- Occasionally entering the **Land of Dawn**
+- Watching another movie
+- Or most likely, starting another anime
 
 ```javascript
 const aden = {
@@ -227,53 +165,39 @@ const aden = {
 
 # 🤝 Let's Connect
 
-<div align="center">
+## 🌐 Connect with Me
 
-### Have an idea, project, or just want to talk tech?
+<p align="left">
 
-<br>
+  <a href="https://aden-alexandria-portofolio.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"
+      alt="Portfolio"
+    />
+  </a>
 
-<a href="https://aden-alexandria-portofolio.vercel.app/">
-  <img
-    src="https://cdn.simpleicons.org/vercel/FFFFFF"
-    width="32"
-    height="32"
-    alt="Portfolio"
-  />
-</a>
+  <a href="https://www.linkedin.com/in/adenalexandria" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+    />
+  </a>
 
-&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aden.alexandria/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F"
+      alt="Instagram"
+    />
+  </a>
 
-<a href="https://www.linkedin.com/in/adenalexandria">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="32"
-    height="32"
-    alt="LinkedIn"
-  />
-</a>
+  <a href="mailto:adenperdana1477@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335"
+      alt="Email"
+    />
+  </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/aden.alexandria/">
-  <img
-    src="https://cdn.simpleicons.org/instagram/E4405F"
-    width="32"
-    height="32"
-    alt="Instagram"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:adenperdana1477@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="32"
-    height="32"
-    alt="Email"
-  />
-</a>
+</p>
 
 <br><br>
 
