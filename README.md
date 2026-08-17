@@ -4,9 +4,12 @@
 
 ### Web & Mobile Developer
 
-<p>
-  Building for the Web · Crafting Mobile Experiences · Exploring IoT
-</p>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+for+the+Web.;Crafting+Mobile+Experiences.;Exploring+IoT.;Understanding+the+Systems+Behind+It."
+    alt="Typing SVG"
+  />
+</a>
 
 <p>
   <a href="https://aden-alexandria-portofolio.vercel.app/">
