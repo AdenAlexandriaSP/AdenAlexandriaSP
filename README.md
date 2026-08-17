@@ -49,7 +49,33 @@ Currently focused on building useful, clean, and connected digital experiences.
 
 <br>
 
----
+## Tech Ecosystem
+
+**Web**
+
+`Next.js` `Tailwind CSS` `HTML` `CSS` `JavaScript` `Responsive UI`
+
+**Mobile**
+
+`Flutter` `Dart` `Riverpod` `Dio` `REST API`
+
+**Backend & Data**
+
+`Laravel` `Firebase` `Supabase` `PostgreSQL` `MySQL`
+
+**IoT**
+
+`ESP32` `MQTT` `Sensor Integration` `Firebase Cloud Messaging`
+
+**Infrastructure**
+
+`MikroTik` `Cisco` `Networking` `Troubleshooting`
+
+**Tools**
+
+`Git` `GitHub` `pgAdmin`
+
+<br>
 
 <div align="center">
 
