@@ -115,18 +115,28 @@ Worked with network maintenance, access point installation, CCTV systems, MikroT
 # Contribution Playground
 
 ```text
-> assembling_contributions.exe
-> dropping_tetrominoes...
-> loop_mode: infinite
+> loading_breakout.exe
+> contribution_blocks: ready
+> game_loop: active
 ```
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/main/assets/contribution-graph.svg"
-  width="100%"
-  alt="Aden Alexandria Contribution Tetris Animation"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/images/breakout-light.svg"
+  />
+  <img
+    alt="Breakout Game"
+    src="https://raw.githubusercontent.com/AdenAlexandriaSP/AdenAlexandriaSP/github-breakout/images/breakout-light.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
