@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/foto_diri.png" width="160" alt="Aden Alexandria">
+<img src="assets/foto_diri.png" alt="Aden Alexandria">
 
 # Aden Alexandria Syaiful Perdana
 
